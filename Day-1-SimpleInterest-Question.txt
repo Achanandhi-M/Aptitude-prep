@@ -1,0 +1,10 @@
+1. Find the Simple interest on Rs 68,000 at 16 2/3% per annum for 9 months
+
+sol
+
+p=68,000 , R=50/3% and T = 9/12 years=3/4 years
+
+
+Therefore S.I=(PxRxT)/100
+             =Rs(68,000 X 50/3 X 3/4 X 1/100)
+             =Rs 8500
