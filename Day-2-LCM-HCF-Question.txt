@@ -1,0 +1,25 @@
+2. What is the Sum of LCM and HCF of 5/18, 35/9 and 15/63?
+
+a) 1475/252
+b) 1475/126
+c) 625/252
+d) 625/126
+
+
+Answer b) 1475/126
+
+Explanation
+
+Formula
+
+LCM Of Fractions=LCM of Numerator/ HCF of denominator = LCM(15,35,5)/HCF(18,9,63)=105/9
+
+HCF of Fractions= HCF of denominator/ LCM of Numerator=HCF(5,35,15)/LCM(18,9,63)=5/126
+
+Final Answer= 105/9 + 5/126
+Final Answer = 1475/126
+
+
+For details explanation use this link : https://youtu.be/FbfU9ysbmK4
+
+
