@@ -1,0 +1,11 @@
+Find the least value of x for which 5967*13 is divisible by 3
+
+Sol
+
+=>5+9+6+7+x+1+3  ie Sum of its digits
+=>31+x [ Divisible by 3]
+=> The  least value of  x is 2
+
+Tricks:
+For divisibility of 3 
+=> divisibility by 3 only when the sum of its digits is divisible by 3
