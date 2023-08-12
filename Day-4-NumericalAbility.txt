@@ -1,0 +1,17 @@
+4) A Number is dividend by 406 leaves remainder 115, what will be remainder when it will be divided by 29?
+
+Sol
+Formula -> dividend=divisor X quotient + remainder
+        -> n=406 X x + 115
+        -> n=406x+115
+n/29=406x+115/29
+    = 406x/29 + 115/29
+remainder=28
+
+or use another simple Tricks
+ -> 406+115/29
+ -> remainder is 28
+
+
+
+ Please try this with another example
