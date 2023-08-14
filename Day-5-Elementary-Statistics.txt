@@ -1,0 +1,6 @@
+The Mean of set of data is 5 . what will be the mean if ten is subtracted from each data?
+
+a) 5  b) 10 c) -10 d) -5
+
+
+Answer is -5 
