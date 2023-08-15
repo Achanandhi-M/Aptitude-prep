@@ -1,0 +1,14 @@
+What is the difference between the mean and the median of the given data 5, 9, 8, 15,12, 9,2,19,21 and 11 ?
+
+Soln
+
+Mean= 5+ 9+ 8 + 15+ 12 + 9 + 2+ 19+ 21 +11 / 10
+Mean=11.1
+
+Median -Arrange in Ascending order and find the middle value 
+
+Median = 9+11/2 = 10
+
+difference=Mean - Median
+difference = 11.1 - 10
+difference=1.1
