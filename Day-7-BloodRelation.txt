@@ -1,0 +1,16 @@
+ A is B's  daughter , B is C's mother , D is C's brother How D is related to A?
+
+ a) Father b) God father c) Son d) brother
+
+
+ Soln
+
+ D is related to A as brother.
+
+Explanation:
+- B is C's mother. This means B is the female parent of C.
+- A is B's daughter. This means A is the female child of B.
+- Since B is C's mother and A is B's daughter, that makes A and C siblings.
+- D is C's brother. This means D is another sibling of C.
+
+Therefore, D is related to A as a brother because they both share the same mother, which is B.
