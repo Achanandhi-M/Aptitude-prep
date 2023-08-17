@@ -1,0 +1,8 @@
+Q is the brother of R, P is the Sister of Q , T is the brother of S, S is the daughter of R . How is Q related to T?
+
+a) Uncle b) Father c) Brother-in-law d) Nephew
+
+
+Soln
+
+The answer is Uncle (option a )
