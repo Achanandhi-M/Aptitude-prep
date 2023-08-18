@@ -1,0 +1,12 @@
+Six members of family are travelling these are a,b,c,d,e, and f  , b is the son of c but c is not mother of b. a and c are s married couple, e is the brother of c. d is the daughter of a 
+f is the brother of b.
+
+
+which of the following is pair of female?
+
+a) ae b) bd c) df d) ad
+
+
+Sol By using BR diagram
+
+The correct answer is ad (option d )
