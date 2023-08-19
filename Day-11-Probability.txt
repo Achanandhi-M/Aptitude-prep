@@ -1,0 +1,13 @@
+This is simple questions everyone can answer
+
+
+
+In a throw of a coin, find the probability of getting a head?
+
+Soln  S={H,T} and E={H}
+
+P(E)=n(E)/n(S)=1/2
+
+
+Answer is 1/2
+
