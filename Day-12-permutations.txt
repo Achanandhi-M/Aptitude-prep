@@ -1,0 +1,8 @@
+How many words can be formed by using all letters of the word "BIHAR" ?
+
+
+Soln:  The word BIHAR Contains 5 different letters
+
+Required no of words= 5P5 = 5! =(5X4X3X2X1) =120
+
+Answer is 120
